@@ -12,6 +12,6 @@
  		</ul>
 
 
-![photo](/img/photo.jpeg)
+![photo](/img//photo.jpeg)
 
 
